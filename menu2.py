@@ -32,6 +32,6 @@ while(1):
         dish=input("enter the dish")
         count=o.check(c.Menu,dish,count)
     elif a==3:
-        print ("ammount:",count)
+        print ("amount:",count)
         break
     else: print("wring choice")
